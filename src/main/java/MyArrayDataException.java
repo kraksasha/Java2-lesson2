@@ -22,4 +22,5 @@ public class MyArrayDataException extends Throwable{
     public void setIndexJ(int indexJ) {
         this.indexJ = indexJ;
     }
+
 }
